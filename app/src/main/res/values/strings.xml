@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MidiKontroler</string>
+    <string-array name="track">
+        <item>No Track</item>
+        <item>Track 1</item>
+        <item>Track 2</item>
+        <item>Track 3</item>
+    </string-array>
+</resources>
